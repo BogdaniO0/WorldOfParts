@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+.logo {
+    border: 5px solid #3871ff;
+    border-radius: 5px;
+    width: 554px;
+    height: 158px;
+    text-align: center;
+    position: relative;
+    left: 320px;
+    background-color: white;
+    font-weight: 900;
+    font-size: 64px;
+    top: 10px;
+}
+
+header {
+    background-color: #97B1F0;
+    height: 300px;
+}
+
+.logo_text {
+    position: relative;
+    bottom: 32px;
+}
+
+.section1, .section2, .section3, .section4, .section5 {
+    border-radius: 9px;
+    width: 199px;
+    height: 84px;
+    background-color: #414857;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+}
+
+nav {
+    gap: 32px;
+    display: flex;
+    position: relative;
+    top: 25px;
+    left: 40px;
+    height: 10px;
+}
+
+nav p {
+    position: relative;
+    bottom: 20px;
+}
+
+.s {
+    bottom: 40px;
+}
