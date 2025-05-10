@@ -139,7 +139,7 @@ h2 {
 .news {
     display: flex;
     justify-content: center;
-    gap: 290px;
+    gap: 120px;
     flex-wrap: wrap;
 }
 
@@ -151,4 +151,39 @@ h2 {
 .nb p {
     font-size: 40px;
     width: 558px;
+}
+
+.slavu4i4ka {
+    border-radius: 9px;
+    width: 736px;
+    height: 132px;
+    background-color: #97b1f0;
+    display: block;
+    margin:0 auto;
+}
+
+.slavu4i4ka p {
+    font-size: 36px;
+    text-align: center;
+}
+
+.adress {
+    text-align: center;
+    font-size: 48px;
+    padding-top: 60px;
+}
+
+.add {
+    font-size: 36px;
+    padding-top: 40px;
+}
+
+footer {
+    background: #97b1f0;
+    height: 185px;
+    padding-bottom: 0px;
+}
+
+footer p {
+    font-size: 48px;
 }
