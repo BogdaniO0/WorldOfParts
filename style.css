@@ -206,7 +206,11 @@ h2 {
 .add {
     font-size: 36px;
     padding-top: 40px;
+    padding-bottom: 80px;
     text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 footer p {
