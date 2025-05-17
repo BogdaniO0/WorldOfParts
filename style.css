@@ -93,6 +93,8 @@ nav {
     position: absolute;
     right: 2%;
     top: 530px;
+    display: flex;
+    justify-content: space-between;
 }
 
 h2 {
